@@ -1,0 +1,183 @@
+*{
+
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin: 0%;
+
+}
+.header {
+background-color:#595959; 
+overflow: hidden;
+
+}
+
+
+
+
+
+
+.header img {
+
+float: left;
+width: 250px;
+margin-top: 10px;
+margin-left: 15px;
+margin-bottom: 8px;
+
+
+}
+
+.header p {
+
+float: right;
+font-size: 30px;
+color: #febf08;
+margin-right: 60px;
+font-weight: bold;
+margin-top: 30px;
+}
+
+.navbar{
+
+background-color:#febf08
+overflow: hidden;
+margin-top: 0px;
+
+}
+
+.navbar a{
+
+width: 25%;
+font-size: 30%;
+float: left;
+display: block;
+color: black;
+text-align: center;
+padding-top: 10px;
+padding-bottom: 10px;
+
+}
+
+
+
+.CARDSHEADING{
+
+background-color: rgb(107, 102, 102);
+color:#febf08
+text-align: center;
+font-size: 40px;
+text-transform: uppercase;
+width: 800px;
+margin: 40px auto 20px auto;
+/* top right bottom left */
+}
+
+.box{
+
+border: black;
+background-color: #febf08;
+float: left;
+margin-left: 4%;
+margin-right: 4%;
+width: 25%;
+height: 420px;
+
+}
+
+.box p{
+
+font-size: 300px;
+color: black;
+text-align: center;
+
+}
+
+.box p:hover{
+
+color: white;
+background-color: black;
+
+
+}
+
+.box img{
+
+display:block;
+margin: auto;
+padding-top: 5px;
+
+
+
+
+
+
+}
+
+.footer{
+
+.box{
+
+border: 3px dotted white;
+background-color: gray;
+float: left;
+margin-left: 4%;
+margin-right: 4%;
+width: 25%;
+height: 420px;
+
+}
+
+.box p{
+
+font-size: 40px;
+text-transform: uppercase;
+color: black;
+text-align: center;
+-webkit-text-stroke: 1px white;
+
+}
+
+.box p:hover{
+
+color: white;
+background-color: black;
+
+
+}
+
+.box img{
+
+display:block;
+margin: auto;
+padding-top: 5px;
+
+
+
+
+}
+
+.footer{
+background-color:#595959;
+color: white;
+text-align:center
+width: 100%;
+text-transform: capitalize;
+
+padding-bottom: 50px;
+padding: 15px;
+position: fixed;
+left: 0%;
+bottom: 0%;
+border-bottom: 1px solid white;
+
+
+
+
+}
+
+
+
+
+
+
+
+
